@@ -36,17 +36,17 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing Guidelines
 
-Please read [contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
 
 ## Code of Conduct
 
-One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [codeofconduct.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
+One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CODEOFCONDUCT.md](CODEOFCONDUCT.md)
 
 ## Authors
 
 * **DV Bern AG** - *Initial work* - [dvbern](https://github.com/dvbern)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/FabriceKoenig/OS-Publishing-Templates/contributors) who participated in this project.
 
 ## License
 
