@@ -1,6 +1,6 @@
-# <Project Title>
+# Project Title
 
-<Project Description>
+Project Description
 
 ## Getting Started
 
