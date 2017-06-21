@@ -8,7 +8,7 @@ These instructions will get you an overview on how to implement and use the dvbe
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+<What things you need to install the software and how to install them>
 
 ```
 <example>
@@ -16,9 +16,9 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+<A step by step series of examples to get a development env running>
 
-This step does this or that
+<This step does this>
 
 ```
 <example>
@@ -50,5 +50,5 @@ See also the list of [contributors](https://github.com/FabriceKoenig/OS-Publishi
 
 ## License
 
-This project is licensed under the <> License - see the [License.md](LICENSE.md) file for details
+This project is licensed under the <> License - see the [License.md](LICENSE.md) file for details.
 
