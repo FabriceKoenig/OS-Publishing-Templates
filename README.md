@@ -36,11 +36,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing Guidelines
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
+Please read [Contributing.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
 
 ## Code of Conduct
 
-One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CODEOFCONDUCT.md](CODEOFCONDUCT.md)
+One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CodeOfConduct.md](CODEOFCONDUCT.md)
 
 ## Authors
 
@@ -50,5 +50,5 @@ See also the list of [contributors](https://github.com/FabriceKoenig/OS-Publishi
 
 ## License
 
-This project is licensed under the <> License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the <> License - see the [License.md](LICENSE.md) file for details
 
